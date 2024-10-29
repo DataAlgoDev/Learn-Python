@@ -1,2 +1,2 @@
 # Python-References
-Fundamentsls of python for Beginner to intermediate level, including data sctructures implementation.
+Fundamentals of python for Beginner to intermediate level learners. Implementetion of common data structures included.
